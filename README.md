@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DIEGO_USUARIO&label=Visitantes&color=00FF41&style=flat-square" />
   <img src="https://img.shields.io/github/followers/DIEGO_USUARIO?label=Seguidores&style=flat-square&color=00FF41" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&logo=statuspage&logoColor=black" />
 </p>
@@ -56,7 +55,7 @@
 ### `$ ./contribuciones.sh --animar`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DIEGO_USUARIO/DIEGO_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/DiegoAlexis117/DiegoAlexis117/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 >  Se genera automáticamente con GitHub Actions (instrucciones abajo).
@@ -73,14 +72,3 @@
 <p align="center">
   <sub>"root@diego:~# echo 'el código es mi terreno de juego'"</sub>
 </p>
-
-
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
