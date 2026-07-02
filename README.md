@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hola%2C+soy+%5DDiego%5D;Desarrollador+%2F%2F+Hacker+%2F%2F+Creador;Bienvenido+a+mi+terminal..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=root%40diego%3A~%23+whoami;Diego+-+Developer;Accediendo+al+sistema..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,68 +7,70 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DiegoAlexis117&label=Visitantes&color=00FF41&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=flat-square&color=00FF41" />
+  <img src="https://komarev.com/ghpvc/?username=DIEGO_USUARIO&label=Visitantes&color=00FF41&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/DIEGO_USUARIO?label=Seguidores&style=flat-square&color=00FF41" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&logo=statuspage&logoColor=black" />
 </p>
 
 ---
 
-### `whoami`
+### `$ whoami`
 
 ```bash
-> Nombre: Diego Alexis
-> Rol: Estudiante de Ciberseguridad
-> Ubicacion: Mexico
-> Stack_actual: [Python, JavaScript, Java, C]
-> Intereses: [Ciberseguridad, Linux, Open Source]
-> modo: Sarah_Connor_mode_activated
+> nombre     : Diego
+> rol        : student
+> ubicacion  : Mexico
+> os         : Linux
+> lenguaje_favorito : root@access_granted
+> modo       : hacker_mode --activado
 ```
 
 ---
 
-### `ls -la habilidades/`
+### `$ ls -la /skills`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,linux,git,docker,html,css,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,linux,docker,python,js,c&theme=dark" />
+</p>
+
+| Categoría | Tecnologías |
+|---|---|
+| 💻 Lenguajes | Java · Python · JavaScript · C |
+| 🐧 Sistemas | Linux |
+| 📦 DevOps | Docker | 
+
+---
+
+### `$ cat estadisticas.log`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DIEGO_USUARIO&show_icons=true&theme=matrix&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGO_USUARIO&layout=compact&theme=matrix&hide_border=true" width="35%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIEGO_USUARIO&theme=matrix&hide_border=true" width="60%" />
 </p>
 
 ---
 
-### `cat estadisticas.log`
+### `$ ./contribuciones.sh --animar`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=matrix&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=matrix&hide_border=true" width="35%" />
+  <img src="https://raw.githubusercontent.com/DIEGO_USUARIO/DIEGO_USUARIO/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoAlexis117&theme=matrix&hide_border=true" width="60%" />
-</p>
+>  Se genera automáticamente con GitHub Actions (instrucciones abajo).
 
 ---
 
-### `./contribuciones.sh --animar`
+### `$ ping redes_sociales`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DiegoAlexis117/DiegoAlexis117/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
->  Esta serpiente se genera automáticamente con GitHub Actions (instrucciones abajo).
-
----
-
-### `ping redes_sociales`
-
-<p align="center">
-  <a href="https://linkedin.com/in/diego-alexis117003"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
-  <a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF41" /></a>
-  <a href="diegoordonez003@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+  <a href="https://linkedin.com/in/diego-alexis117003/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+  <a href="mailto diegoordonez003@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black" />
-</p>
-
-<p align="center">
-  <sub>"El código es poesía, el terminal es mi lienzo."</sub>
+  <sub>"root@diego:~# echo 'el código es mi terreno de juego'"</sub>
 </p>
