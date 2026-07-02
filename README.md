@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hola%2C+soy+%5BTU+NOMBRE%5D;Desarrollador+%2F%2F+Hacker+%2F%2F+Creador;Bienvenido+a+mi+terminal..." alt="Typing SVG" />
+</h1>
 
-<!--
-**DiegoAlexis117/DiegoAlexis117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/hacker.gif" width="450" alt="hacker gif">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitantes&color=00FF41&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=flat-square&color=00FF41" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### `whoami`
+
+```bash
+> nombre: Diego Alexis
+> rol: Estudiante de Ciberseguridad
+> ubicacion: Mexico
+> stack_actual: [Python, JavaScript, Java, C]
+> intereses: [Ciberseguridad, Linux, Open Source]
+> modo: Sarah_Connor_mode_activated
+```
+
+---
+
+### `ls -la habilidades/`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,linux,git,docker,html,css,mysql&theme=dark" />
+</p>
+
+---
+
+### `cat estadisticas.log`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=matrix&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=matrix&hide_border=true" width="35%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=matrix&hide_border=true" width="60%" />
+</p>
+
+---
+
+### `./contribuciones.sh --animar`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚠️ Esta serpiente se genera automáticamente con GitHub Actions (instrucciones abajo).
+
+---
+
+### `ping redes_sociales`
+
+<p align="center">
+  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+  <a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF41" /></a>
+  <a href="mailto:tuemail@dominio.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black" />
+</p>
+
+<p align="center">
+  <sub>"El código es poesía, el terminal es mi lienzo."</sub>
+</p>
