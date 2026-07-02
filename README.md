@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hola%2C+soy+%5BTU+NOMBRE%5D;Desarrollador+%2F%2F+Hacker+%2F%2F+Creador;Bienvenido+a+mi+terminal..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hola%2C+soy+%5DDiego%5D;Desarrollador+%2F%2F+Hacker+%2F%2F+Creador;Bienvenido+a+mi+terminal..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitantes&color=00FF41&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=DiegoAlexis117&label=Visitantes&color=00FF41&style=flat-square" />
   <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=flat-square&color=00FF41" />
 </p>
 
@@ -16,11 +16,11 @@
 ### `whoami`
 
 ```bash
-> nombre: Diego Alexis
-> rol: Estudiante de Ciberseguridad
-> ubicacion: Mexico
-> stack_actual: [Python, JavaScript, Java, C]
-> intereses: [Ciberseguridad, Linux, Open Source]
+> Nombre: Diego Alexis
+> Rol: Estudiante de Ciberseguridad
+> Ubicacion: Mexico
+> Stack_actual: [Python, JavaScript, Java, C]
+> Intereses: [Ciberseguridad, Linux, Open Source]
 > modo: Sarah_Connor_mode_activated
 ```
 
@@ -29,7 +29,7 @@
 ### `ls -la habilidades/`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,linux,git,docker,html,css,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,linux,git,docker,html,css,mysql&theme=dark" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=matrix&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoAlexis117&theme=matrix&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -50,19 +50,19 @@
 ### `./contribuciones.sh --animar`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/DiegoAlexis117/DiegoAlexis117/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ⚠️ Esta serpiente se genera automáticamente con GitHub Actions (instrucciones abajo).
+>  Esta serpiente se genera automáticamente con GitHub Actions (instrucciones abajo).
 
 ---
 
 ### `ping redes_sociales`
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+  <a href="https://linkedin.com/in/diego-alexis117003"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
   <a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF41" /></a>
-  <a href="mailto:tuemail@dominio.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+  <a href="diegoordonez003@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
 </p>
 
 <p align="center">
