@@ -42,12 +42,12 @@
 ### `$ cat estadisticas.log`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIEGO_USUARIO&show_icons=true&theme=matrix&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGO_USUARIO&layout=compact&theme=matrix&hide_border=true" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoAlexis117&show_icons=true&theme=matrix&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAlexis117&layout=compact&theme=matrix&hide_border=true" width="35%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIEGO_USUARIO&theme=matrix&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoAlexis117&theme=matrix&hide_border=true" width="60%" />
 </p>
 
 ---
