@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/DIEGO_USUARIO?label=Seguidores&style=flat-square&color=00FF41" />
+  <img src="https://img.shields.io/github/followers/DIEGO_DiegoAlexis117?label=Seguidores&style=flat-square&color=00FF41" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&logo=statuspage&logoColor=black" />
 </p>
 
