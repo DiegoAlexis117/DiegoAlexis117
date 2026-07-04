@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/DIEGO_DiegoAlexis117?label=Seguidores&style=flat-square&color=00FF41" />
+  <img src="https://img.shields.io/github/followers/DiegoAlexis117?label=Seguidores&style=flat-square&color=00FF41" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&logo=statuspage&logoColor=black" />
 </p>
 
@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/diego-alexis117003/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
-  <a href="mailto diegoordonez003@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+  <a href="diegoordonez003@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
 </p>
 
 <p align="center">
