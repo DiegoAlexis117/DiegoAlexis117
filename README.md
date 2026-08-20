@@ -20,7 +20,7 @@
 > Rol        : student
 > ubicacion  : Mexico
 > os         : Linux
-> Lenguaje_favorito : root@access_granted
+> Lenguaje_favorito : Java
 ```
 
 ---
