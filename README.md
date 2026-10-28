@@ -20,7 +20,7 @@
 > Rol        : student
 > ubicacion  : Mexico
 > os         : Linux
-> Lenguaje_favorito : Java
+> Lenguaje_favorito : C
 ```
 
 ---
