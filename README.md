@@ -33,7 +33,7 @@
 
 | Categoría | Tecnologías |
 |---|---|
-| 💻 Lenguajes | Java · Python · JavaScript · C |
+| 💻 Lenguajes | PHP · Python · JavaScript · C |
 | 🐧 Sistemas | Linux |
 | 📦 DevOps | Docker | 
 
